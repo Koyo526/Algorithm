@@ -9,8 +9,7 @@ Video referenced: https://x.gd/2JoLV
 <h2>幅優先探索 (Breadth-First Search)</h2>
 <p>参考文献：BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜</n>
 https://qiita.com/drken/items/996d80bcae64649a6580</n></p>
-<p>幅優先探索は全探索アルゴリズムの一種</n>
-BFSは探索の始点から各頂点までの最短距離を求めるアルゴリズム</p>
+<p>幅優先探索は全探索アルゴリズムの一種</n>BFSは探索の始点から各頂点までの最短距離を求めるアルゴリズム</p>
 <h2>二分探索 (binary search)</h2>
 <h2></h2>
 <h2></h2>
