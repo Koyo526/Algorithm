@@ -11,6 +11,7 @@ Video referenced: https://x.gd/2JoLV
 https://qiita.com/drken/items/996d80bcae64649a6580</n></p>
 <p>幅優先探索は全探索アルゴリズムの一種<br>BFSは探索の始点から各頂点までの最短距離を求めるアルゴリズム</p>
 <h2>二分探索 (binary search)</h2>
+<p>ソートされているある値の集まりから特定の条件の値を見つけ出す</p>
 <h2></h2>
 <h2></h2>
 <h2></h2>
